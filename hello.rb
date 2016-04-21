@@ -1,1 +1,2 @@
-puts "hello world"
+# -*- coding: utf-8 -*-
+puts "すきなことば"
